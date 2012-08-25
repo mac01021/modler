@@ -1,0 +1,3 @@
+-r production.req
+nose==0.11.3
+
